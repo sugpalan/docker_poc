@@ -1,0 +1,10 @@
+DOCKER SETUP GUIDE:
+
+1. Install Docker for MAC
+2. Install Virtual Box
+3. Run Docker
+4. From MAC Command Line ,
+
+  docker version
+  
+  --will show the version
