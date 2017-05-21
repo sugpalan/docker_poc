@@ -8,3 +8,6 @@ DOCKER SETUP GUIDE:
   docker version
   
   --will show the version
+  
+  
+  arn:aws:s3:::cmrcl-poc
